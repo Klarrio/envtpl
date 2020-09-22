@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/Masterminds/sprig"
+	sprig "github.com/Masterminds/sprig/v3"
 	"github.com/spf13/cobra"
 )
 
